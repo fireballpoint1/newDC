@@ -34,6 +34,7 @@ make install
 
 ## Configuration
 When configuring uhub keep in mind the default directories
+
 |            Dir           |             Path               |
 |:------------------------:|:------------------------------:|
 |        Binaries          |       /usr/local/bin/          |
@@ -45,5 +46,3 @@ The configuration files are available [here](./uhubconf). Add the files to the r
 
 ## Running uhub
 `sudo uhub` inside the uhub repo should do
-
-
