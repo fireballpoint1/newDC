@@ -27,6 +27,7 @@ git clone https://github.com/zubairabid/uhub.git
 ### Compiling
 `cd` into the uhub directory and the following commands should do fine:
 ```
+git checkout iiit_conf
 cmake .
 make
 make install
