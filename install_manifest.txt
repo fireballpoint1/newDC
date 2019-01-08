@@ -1,0 +1,15 @@
+/usr/local/bin/uhub
+/usr/local/bin/uhub-passwd
+/usr/lib/uhub/mod_example.so
+/usr/lib/uhub/mod_welcome.so
+/usr/lib/uhub/mod_logging.so
+/usr/lib/uhub/mod_auth_simple.so
+/usr/lib/uhub/mod_auth_sqlite.so
+/usr/lib/uhub/mod_chat_history.so
+/usr/lib/uhub/mod_chat_history_sqlite.so
+/usr/lib/uhub/mod_chat_only.so
+/usr/lib/uhub/mod_topic.so
+/usr/lib/uhub/mod_no_guest_downloads.so
+/etc/uhub/uhub.conf
+/etc/uhub/plugins.conf
+/etc/uhub/rules.txt
